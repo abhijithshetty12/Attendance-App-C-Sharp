@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\attendanceapp_FS08\attendanceapp_FS08\bin\Debug\attendanceapp_FS08.exe.config
+C:\Users\Admin\source\repos\attendanceapp_FS08\attendanceapp_FS08\bin\Debug\attendanceapp_FS08.exe
+C:\Users\Admin\source\repos\attendanceapp_FS08\attendanceapp_FS08\bin\Debug\attendanceapp_FS08.pdb
+C:\Users\Admin\source\repos\attendanceapp_FS08\attendanceapp_FS08\obj\Debug\attendanceapp_FS08.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\attendanceapp_FS08\attendanceapp_FS08\obj\Debug\attendanceapp_FS08.Form1.resources
+C:\Users\Admin\source\repos\attendanceapp_FS08\attendanceapp_FS08\obj\Debug\attendanceapp_FS08.Properties.Resources.resources
+C:\Users\Admin\source\repos\attendanceapp_FS08\attendanceapp_FS08\obj\Debug\attendanceapp_FS08.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\attendanceapp_FS08\attendanceapp_FS08\obj\Debug\attendanceapp_FS08.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\attendanceapp_FS08\attendanceapp_FS08\obj\Debug\attendanceapp_FS08.exe
+C:\Users\Admin\source\repos\attendanceapp_FS08\attendanceapp_FS08\obj\Debug\attendanceapp_FS08.pdb
